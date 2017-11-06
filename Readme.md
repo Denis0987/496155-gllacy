@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Неопознанный Сурикат](https://up.htmlacademy.ru/htmlcss/19/user/496155).
-* Наставник: `Неизвестно`.
+* Наставник: [Катерина Шелег](https://htmlacademy.ru/profile/katesheleh)
 
 ---
 
